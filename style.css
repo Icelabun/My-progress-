@@ -1,0 +1,24 @@
+body {
+    font-family: Arial, sans-serif;
+    margin: 20px;
+    height: 100vh;
+    display: flex;
+    justify-content: flex-start;
+    align-items: center;
+    background-color: #5fe605;
+    flex-direction: column;
+    flex-wrap: wrap;
+    align-content: stretch;
+    border-radius: 82px;
+background: #ff3c4a;
+box-shadow: inset 29px 29px 58px #66181e,
+            inset -29px -29px 58px #0126f8;
+            animation: slide-in 2s ease-in-out o.5s;
+}
+.calculator {
+    margin-top: 20px;
+}
+.operation-sign {
+    font-size: 24px;
+    margin: 0 10px;
+}
