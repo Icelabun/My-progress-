@@ -36,6 +36,6 @@ function evaluateOperation() {
         default:
             result = 'Invalid operation';
     }
-
+    
     document.getElementById('result').innerText = result;
 }

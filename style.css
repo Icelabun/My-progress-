@@ -13,7 +13,6 @@ body {
 background: #ff3c4a;
 box-shadow: inset 29px 29px 58px #66181e,
             inset -29px -29px 58px #0126f8;
-            animation: slide-in 2s ease-in-out o.5s;
 }
 .calculator {
     margin-top: 20px;
